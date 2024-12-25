@@ -16,5 +16,3 @@ you might need to download visual studio and install the Desktop development wit
 
 ![rat](showcase.jpg)
 
-discord: **@spyism**  
-website: [wren.lol](https://wren.lol/)
